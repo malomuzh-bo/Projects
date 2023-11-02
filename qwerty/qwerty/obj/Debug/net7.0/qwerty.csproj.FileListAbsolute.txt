@@ -1,0 +1,15 @@
+/Users/malomuzh_bo/Projects/qwerty/qwerty/bin/Debug/net7.0/qwerty
+/Users/malomuzh_bo/Projects/qwerty/qwerty/bin/Debug/net7.0/qwerty.deps.json
+/Users/malomuzh_bo/Projects/qwerty/qwerty/bin/Debug/net7.0/qwerty.runtimeconfig.json
+/Users/malomuzh_bo/Projects/qwerty/qwerty/bin/Debug/net7.0/qwerty.dll
+/Users/malomuzh_bo/Projects/qwerty/qwerty/bin/Debug/net7.0/qwerty.pdb
+/Users/malomuzh_bo/Projects/qwerty/qwerty/obj/Debug/net7.0/qwerty.csproj.AssemblyReference.cache
+/Users/malomuzh_bo/Projects/qwerty/qwerty/obj/Debug/net7.0/qwerty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malomuzh_bo/Projects/qwerty/qwerty/obj/Debug/net7.0/qwerty.AssemblyInfoInputs.cache
+/Users/malomuzh_bo/Projects/qwerty/qwerty/obj/Debug/net7.0/qwerty.AssemblyInfo.cs
+/Users/malomuzh_bo/Projects/qwerty/qwerty/obj/Debug/net7.0/qwerty.csproj.CoreCompileInputs.cache
+/Users/malomuzh_bo/Projects/qwerty/qwerty/obj/Debug/net7.0/qwerty.dll
+/Users/malomuzh_bo/Projects/qwerty/qwerty/obj/Debug/net7.0/refint/qwerty.dll
+/Users/malomuzh_bo/Projects/qwerty/qwerty/obj/Debug/net7.0/qwerty.pdb
+/Users/malomuzh_bo/Projects/qwerty/qwerty/obj/Debug/net7.0/qwerty.genruntimeconfig.cache
+/Users/malomuzh_bo/Projects/qwerty/qwerty/obj/Debug/net7.0/ref/qwerty.dll

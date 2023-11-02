@@ -1,0 +1,15 @@
+/Users/malomuzh_bo/Projects/backtogame/backtogame/bin/Debug/net7.0/backtogame
+/Users/malomuzh_bo/Projects/backtogame/backtogame/bin/Debug/net7.0/backtogame.deps.json
+/Users/malomuzh_bo/Projects/backtogame/backtogame/bin/Debug/net7.0/backtogame.runtimeconfig.json
+/Users/malomuzh_bo/Projects/backtogame/backtogame/bin/Debug/net7.0/backtogame.dll
+/Users/malomuzh_bo/Projects/backtogame/backtogame/bin/Debug/net7.0/backtogame.pdb
+/Users/malomuzh_bo/Projects/backtogame/backtogame/obj/Debug/net7.0/backtogame.csproj.AssemblyReference.cache
+/Users/malomuzh_bo/Projects/backtogame/backtogame/obj/Debug/net7.0/backtogame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malomuzh_bo/Projects/backtogame/backtogame/obj/Debug/net7.0/backtogame.AssemblyInfoInputs.cache
+/Users/malomuzh_bo/Projects/backtogame/backtogame/obj/Debug/net7.0/backtogame.AssemblyInfo.cs
+/Users/malomuzh_bo/Projects/backtogame/backtogame/obj/Debug/net7.0/backtogame.csproj.CoreCompileInputs.cache
+/Users/malomuzh_bo/Projects/backtogame/backtogame/obj/Debug/net7.0/backtogame.dll
+/Users/malomuzh_bo/Projects/backtogame/backtogame/obj/Debug/net7.0/refint/backtogame.dll
+/Users/malomuzh_bo/Projects/backtogame/backtogame/obj/Debug/net7.0/backtogame.pdb
+/Users/malomuzh_bo/Projects/backtogame/backtogame/obj/Debug/net7.0/backtogame.genruntimeconfig.cache
+/Users/malomuzh_bo/Projects/backtogame/backtogame/obj/Debug/net7.0/ref/backtogame.dll
